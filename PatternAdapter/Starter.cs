@@ -4,7 +4,7 @@ using PatternAdapterLib.Adapter;
 using PatternAdapterLib.Transport;
 using PatternAdapterLib.Еransport;
 
-public class Program
+public class Starter
 {
     private static void Main(string[] args)
     {
